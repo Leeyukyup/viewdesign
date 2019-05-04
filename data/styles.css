@@ -63,9 +63,18 @@
 }
 .arrow {
 }
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
 ._流程形状 {
 }
 ._连接线 {
+}
+.marker {
+  color:#FFFFFF;
 }
 ._默认样式 {
 }
@@ -85,4 +94,10 @@
   color:#FFFFFF;
 }
 .icon {
+}
+.flow_shape {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
 }
